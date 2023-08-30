@@ -1,9 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
 
-.logonavbar{
-    width: 85px;
+
+
+
+.logonavbar {
+    width: 86px;
     height: 25px;
-    padding: left 20px; ;
+    margin-left: 20px;
 }
-.navbar-green{
-   background-color: #28A745 ;
+
+.navbar-green {
+    background-color: #28A745;
+}
+
+
+.text-color-white {
+    font-family: 'Roboto', sans-serif;
+    color: white !important;
+}
+
+.title-color {
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+}
+
+.text-color {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 13px;
+}
+
+.medida {
+    font-size: 16px;
 }
