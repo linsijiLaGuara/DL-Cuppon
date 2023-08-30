@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
 
 
-
-
 .logonavbar {
     width: 86px;
     height: 25px;
@@ -39,4 +37,14 @@ background-color: #28A745;
 .bn{
     color:#F8F9FA ;
     border-color:#DDDDDD ;
+}
+.form-color{
+    margin: 20px;
+}
+.card-body{
+    margin: 20px;
+}
+.form-label{
+    width: 40px;
+    height:40px ;
 }
