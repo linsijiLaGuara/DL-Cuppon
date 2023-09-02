@@ -67,3 +67,12 @@
     color: #212529;
     font-size: 16px;
 }
+
+.card-img-top{
+    max-height: 250px;
+    height: 250px;
+}
+
+.logo-footer{
+    height: 24px;
+}
